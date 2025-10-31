@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && python manage.py migrate && python manage.py runserver <host>:<port>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/personal-notes-manager-192702-192711/notes_backend"
+}
